@@ -8,7 +8,7 @@ def a():
 
 def main():
 	a()
-	print("I love YinYin")
+	print("I love Tommy")
 	b()
 
 if __name__ == "__main__":
