@@ -2,8 +2,12 @@ import numpy as np
 
 def b():
 	return 100
+	
+def a():
+	return 10
 
 def main():
+	a()
 	print("I love YinYin")
 	b()
 
